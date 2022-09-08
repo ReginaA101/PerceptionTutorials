@@ -1,0 +1,10 @@
+this is my submission 
+a_file.txt
+akrong-lamptey.1.txt
+b_file.txt
+folder_1/
+a_file.txt
+akrong-lamptey.1.txt
+b_file.txt
+folder_1
+/Users/getal/Documents/GitHub/PerceptionTutorials/02_bash/akrong-lamptey.1
